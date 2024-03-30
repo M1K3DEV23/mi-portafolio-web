@@ -1,0 +1,12 @@
+---
+// Importando el container principal
+import Section from '@/components/Section.astro';
+
+import { basics } from '@cv';
+
+const { summary } = basics;
+---
+
+<Section title="Sobre mí">
+  <p>{summary}</p>
+</Section>
