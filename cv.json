@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Miguel Ángel Ríos Yánez",
-    "label": "Científico de Datos experto en extraer conocimientos profundos de datos complejos, especializado en Machine Learning, Deep Learning y análisis estadístico.",
+    "label": "Ingeniero en Datos y Especialista en Machine Learning e Inteligencia Artificial",
     "image": "/me.webp",
-    "email": "mikery2310@outlook.com",
+    "email": "miguelry.1023@gmail.com",
     "phone": "+52 9612907422",
-    "url": "https://mikery2310@outlook.com",
-    "summary": "Apasionado por explorar el mundo de los datos y convertirlos en insights significativos. Científico de Datos con sólida formación en análisis estadístico y programación. Mi objetivo es aplicar mis habilidades técnicas para resolver problemas complejos y generar impacto positivo en proyectos innovadores.",
+    "url": "miguelry.1023@gmail.com",
+    "summary": "Soy Ingeniero en Datos especializado en inteligencia artificial y machine learning. Me enfoco en diseñar soluciones basadas en IA, optimizar procesos y gestionar grandes volúmenes de datos. Mi objetivo es implementar modelos predictivos y generar valor mediante tecnologías avanzadas como Python y SQL.",
     "location": {
       "address": "",
       "postalCode": "29050",
@@ -18,12 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "url": "https://www.linkedin.com/in/miguel-rios-ia/"
       },
       {
         "network": "GitHub",
@@ -34,145 +29,166 @@
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
+      "name": "Universidad Autónoma de Chiapas",
+      "position": "Desarrollo Web Fullstack",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": ["Started the company"]
+      "startDate": "2024-07-01",
+      "endDate": "2025-01-02",
+      "summary": "Desarrollé SMIFE, una solución de software para gestionar el mantenimiento de la infraestructura universitaria. Implementé un frontend interactivo y responsivo con React, un backend eficiente con FastAPI y optimicé la base de datos en PostgreSQL. El sistema facilita la planificación y ejecución de tareas de mantenimiento, mejorando la organización y el control de los procesos institucionales."
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
+      "name": "Gobierno del Estado de Chiapas",
+      "position": "Desarrollo de Aplicación Mobile (AR)",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": ["Started the company"]
+      "startDate": "2022-09-01",
+      "endDate": "2022-12-02",
+      "summary": "Desarrollé una aplicación móvil de realidad aumentada con Unity, Vuforia y SDK de AR para un proyecto gubernamental. La app permitía apuntar a paneles pintados y visualizar contenido interactivo representativo de cada obra. Trabajé con un pintor y un equipo multidisciplinario para integrar el contenido, logrando una experiencia innovadora que recibió elogios en diversas exposiciones por su creatividad y funcionalidad."
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": ["Started the company"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "name": "Mac Solutions",
+      "position": "Técnico en Soporte Técnico",
+      "startDate": "2018-04-02",
+      "endDate": "2019-01-02",
+      "summary": "En MacSolutions, trabajé como técnico de soporte, realizando diagnósticos, reparaciones y mantenimiento de dispositivos Apple y equipos de cómputo. Mejoré la tasa de resolución de incidencias en un 20% y aumenté la satisfacción del cliente mediante un servicio eficiente y colaborativo."
     }
   ],
   "education": [
     {
       "institution": "Universidad Autónoma de Chiapas",
-      "url": "https://www.unach.mx/",
       "area": "Licenciatura en Sistemas Computacionales",
       "studyType": "Bachelor",
-      "startDate": "2020-01-01",
-      "endDate": "2025-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
-    }
-  ],
-  "awards": [
+      "startDate": "2020-02-01",
+      "endDate": "2025-02-01"
+    },
     {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
+      "institution": "Universidad del Valle de México",
+      "area": "Bachiller en economicos administrativo",
+      "studyType": "High School",
+      "startDate": "2015-02-01",
+      "endDate": "2017-02-01"
     }
   ],
   "skills": [
     {
       "name": "Python",
       "level": "Master",
-      "keywords": ["Machine Learning", "Deep Learning", "Data Science", "Backend", "Data Analysis"]
-    },
-    {
-      "name": "R",
-      "level": "Master",
-      "keywords": ["Data Science", "Statistical Analysis", "Data Visualization", "Machine Learning"]
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "Data Science",
+        "Backend",
+        "Data Analysis"
+      ]
     },
     {
       "name": "TensorFlow",
       "level": "Master",
-      "keywords": ["Deep Learning", "Neural Networks", "Machine Learning", "Python Library"]
+      "keywords": [
+        "Deep Learning",
+        "Neural Networks",
+        "Machine Learning",
+        "Python Library"
+      ]
     },
     {
       "name": "PyTorch",
       "level": "Master",
-      "keywords": ["Deep Learning", "Neural Networks", "Machine Learning", "Python Library"]
+      "keywords": [
+        "Deep Learning",
+        "Neural Networks",
+        "Machine Learning",
+        "Python Library"
+      ]
     },
     {
       "name": "Scikit-learn",
       "level": "Master",
-      "keywords": ["Machine Learning", "Data Mining", "Python Library", "Modeling"]
+      "keywords": [
+        "Machine Learning",
+        "Data Mining",
+        "Python Library",
+        "Modeling"
+      ]
     },
     {
       "name": "Keras",
       "level": "Master",
-      "keywords": ["Deep Learning", "Neural Networks", "Machine Learning", "Python Library"]
+      "keywords": [
+        "Deep Learning",
+        "Neural Networks",
+        "Machine Learning",
+        "Python Library"
+      ]
     },
     {
       "name": "Pandas",
       "level": "Master",
-      "keywords": ["Data Analysis", "Data Manipulation", "Python Library", "Data Science"]
+      "keywords": [
+        "Data Analysis",
+        "Data Manipulation",
+        "Python Library",
+        "Data Science"
+      ]
     },
     {
       "name": "NumPy",
       "level": "Master",
-      "keywords": ["Numerical Computing", "Array Processing", "Python Library", "Data Science"]
+      "keywords": [
+        "Numerical Computing",
+        "Array Processing",
+        "Python Library",
+        "Data Science"
+      ]
     },
     {
       "name": "Matplotlib",
       "level": "Master",
-      "keywords": ["Data Visualization", "Python Library", "Data Science", "Plotting"]
+      "keywords": [
+        "Data Visualization",
+        "Python Library",
+        "Data Science",
+        "Plotting"
+      ]
     },
     {
       "name": "SQL",
       "level": "Avanzado",
-      "keywords": ["Bases de Datos", "Consulta de Datos", "Manipulación de Datos", "Data Science"]
+      "keywords": [
+        "Bases de Datos",
+        "Consulta de Datos",
+        "Manipulación de Datos",
+        "Data Science"
+      ]
     },
     {
       "name": "Spark",
       "level": "Avanzado",
-      "keywords": ["Big Data", "Distributed Computing", "Data Processing", "Machine Learning"]
+      "keywords": [
+        "Big Data",
+        "Distributed Computing",
+        "Data Processing",
+        "Machine Learning"
+      ]
     },
     {
       "name": "SciPy",
       "level": "Avanzado",
-      "keywords": ["Scientific Computing", "Numerical Algorithms", "Python Library", "Data Science"]
+      "keywords": [
+        "Scientific Computing",
+        "Numerical Algorithms",
+        "Python Library",
+        "Data Science"
+      ]
     },
     {
       "name": "Seaborn",
       "level": "Avanzado",
-      "keywords": ["Data Visualization", "Python Library", "Data Science", "Statistical Graphics"]
+      "keywords": [
+        "Data Visualization",
+        "Python Library",
+        "Data Science",
+        "Statistical Graphics"
+      ]
     }
   ],
   "languages": [
@@ -185,61 +201,76 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }
-  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Investigating Netflix Movies",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https://mars.codes"
+      "description": "Análisis exploratorio de datos sobre películas de Netflix de los años 1990, incluyendo duraciones y clasificaciones de películas de acción cortas.",
+      "highlights": [
+        "Análisis de la duración más frecuente de películas en los 90s",
+        "Identificación de películas de acción cortas (menos de 90 minutos)"
+      ],
+      "url": "https://github.com/M1K3DEV23/Project_DataCamp/blob/master/Proyectos%20DataCamp/Investigating%20Netflix%20Movies/notebook.ipynb"
     },
     {
-      "name": "AdventJS",
+      "name": "Exploring NYC Public School Test Result Scores",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": ["+1 millón de visitas", "Multidioma", "JavaScript & TypeScript"],
-      "url": "https://adventjs.dev"
+      "description": "Análisis de los puntajes de matemáticas y SAT de las escuelas públicas de Nueva York para identificar las mejores.",
+      "highlights": [
+        "Identificación de las mejores escuelas en matemáticas",
+        "Análisis de las 10 mejores escuelas basado en puntajes combinados de SAT"
+      ],
+      "url": "https://github.com/M1K3DEV23/Project_DataCamp/blob/master/Proyectos%20DataCamp/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores/notebook.ipynb"
     },
     {
-      "name": "Codember",
+      "name": "Visualizing the History of Nobel Prize Winners",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
-      "url": "https://codember.dev"
+      "description": "Análisis de los datos históricos de los ganadores del Premio Nobel, incluyendo patrones de género y nacionalidad.",
+      "highlights": [
+        "Análisis del género y país más común entre los ganadores",
+        "Identificación de la primera mujer ganadora y categorías con más laureadas femeninas"
+      ],
+      "url": "https://github.com/M1K3DEV23/Project_DataCamp/blob/master/Proyectos%20DataCamp/Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb"
     },
     {
-      "name": "codi.link",
+      "name": "Analyzing Crime in Los Angeles",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "description": "Análisis del conjunto de datos de crímenes en Los Ángeles, con enfoque en la hora y área de mayor frecuencia de crímenes.",
+      "highlights": [
+        "Identificación de la hora de mayor frecuencia de crímenes",
+        "Análisis de crímenes nocturnos y distribución por áreas"
+      ],
+      "url": "https://github.com/M1K3DEV23/Project_DataCamp/blob/master/Proyectos%20DataCamp/Analyzing%20Crime%20in%20Los%20Angeles/notebook.ipynb"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Customer Analytics: Preparing Data for Modeling",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "description": "Transformación de un conjunto de datos para optimizar el almacenamiento y procesamiento, siguiendo especificaciones de la empresa.",
+      "highlights": [
+        "Optimización del uso de memoria en grandes conjuntos de datos",
+        "Filtrado de datos para clientes con más de 10 años de experiencia"
+      ],
+      "url": "https://github.com/M1K3DEV23/Project_DataCamp/blob/master/Proyectos%20DataCamp/Customer%20Analytics%20Preparing%20Data%20for%20Modeling/notebook.ipynb"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
-      "url": "https://miduconf.com"
+      "name": "Exploring Airbnb Market Trends",
+      "isActive": true,
+      "description": "Análisis de datos de listados de Airbnb en Nueva York, con enfoque en habitaciones privadas y precios de alquiler.",
+      "highlights": [
+        "Cálculo de la fecha de las primeras y últimas reseñas de los listados",
+        "Análisis del número de habitaciones privadas y precio promedio"
+      ],
+      "url": "https://github.com/M1K3DEV23/Project_DataCamp/blob/master/Proyectos%20DataCamp/Exploring%20Airbnb%20Market%20Trends/notebook.ipynb"
+    },
+    {
+      "name": "Analyzing Students' Mental Health",
+      "isActive": true,
+      "description": "Análisis de cómo la longitud de la estancia impacta los puntajes promedio de salud mental de estudiantes internacionales.",
+      "highlights": [
+        "Cálculo de promedios de salud mental por longitud de estancia",
+        "Generación de tablas con estadísticas clave"
+      ],
+      "url": "https://github.com/M1K3DEV23/Project_DataCamp/blob/master/Proyectos%20DataCamp/Analyzing%20Students'%20Mental%20Health/notebook.ipynb"
     }
   ]
 }
