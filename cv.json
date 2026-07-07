@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Miguel Ángel Ríos Yánez",
-    "label": "Ingeniero en Datos y Especialista en Machine Learning e Inteligencia Artificial",
+    "label": "Desarrollador Full-Stack e Ingeniero en Inteligencia Artificial",
     "image": "/mi-portafolio-web/me.webp",
     "email": "miguelry.1023@gmail.com",
-    "phone": "+52 9612907422",
+    "phone": "+52 9617766170",
     "url": "miguelry.1023@gmail.com",
-    "summary": "Soy Ingeniero en Datos especializado en inteligencia artificial y machine learning. Me enfoco en diseñar soluciones basadas en IA, optimizar procesos y gestionar grandes volúmenes de datos. Mi objetivo es implementar modelos predictivos y generar valor mediante tecnologías avanzadas como Python y SQL.",
+    "summary": "Profesional en desarrollo de software e inteligencia artificial con experiencia construyendo soluciones digitales, automatizando procesos y participando en proyectos de alto enfoque técnico. Me distingo por mi capacidad de adaptación, aprendizaje continuo y pensamiento analítico para abordar problemas complejos desde una perspectiva práctica y estructurada. Combino habilidades técnicas, creatividad, comunicación y trabajo en equipo para desarrollar soluciones funcionales, escalables y orientadas a generar valor real.",
     "location": {
       "address": "",
       "postalCode": "29050",
@@ -29,12 +29,28 @@
   },
   "work": [
     {
+      "name": "Desarrollo RP",
+      "position": "Desarrollador Full-Stack",
+      "location": "Remoto, México",
+      "startDate": "2025-07-01",
+      "endDate": "2026-06-01",
+      "summary": "Lideré el desarrollo de una aplicación tipo SaaS para conectar servicios de WhatsApp con modelos LLM, automatizando flujos de atención al cliente y agendamiento de citas. Desarrollé frontend y backend, diseñé la arquitectura del sistema, trabajé con PostgreSQL para persistencia de datos, implementé medidas de seguridad y utilicé Docker para despliegue."
+    },
+    {
+      "name": "EmpatíaDigital.tech",
+      "position": "Consultor de IA y Nube",
+      "location": "Remoto, México",
+      "startDate": "2025-03-01",
+      "endDate": "2025-06-01",
+      "summary": "Brindé asesoría técnica para la instalación, configuración y despliegue de herramientas open source de IA mediante Docker. Apoyé la integración de arquitecturas RAG privadas, bases de datos vectoriales y entornos de demostración en Google Cloud Platform para procesamiento inteligente y privado de documentos."
+    },
+    {
       "name": "Universidad Autónoma de Chiapas",
-      "position": "Desarrollo Web Fullstack",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2024-07-01",
-      "endDate": "2025-01-02",
-      "summary": "Desarrollé SMIFE, una solución de software para gestionar el mantenimiento de la infraestructura universitaria. Implementé un frontend interactivo y responsivo con React, un backend eficiente con FastAPI y optimicé la base de datos en PostgreSQL. El sistema facilita la planificación y ejecución de tareas de mantenimiento, mejorando la organización y el control de los procesos institucionales."
+      "position": "Desarrollador Full-Stack",
+      "location": "Tuxtla Gutiérrez, México",
+      "startDate": "2024-08-01",
+      "endDate": "2025-05-01",
+      "summary": "Desarrollé una aplicación web responsiva para digitalizar procesos de mantenimiento institucional. Implementé frontend con React y Tailwind CSS, backend con FastAPI, base de datos PostgreSQL, autenticación JWT, control de roles, arquitectura hexagonal, Docker Compose e integración de chatbot local con Ollama."
     },
     {
       "name": "Gobierno del Estado de Chiapas",
@@ -71,124 +87,246 @@
   "skills": [
     {
       "name": "Python",
-      "level": "Master",
-      "keywords": [
-        "Machine Learning",
-        "Deep Learning",
-        "Data Science",
-        "Backend",
-        "Data Analysis"
-      ]
+      "level": "Avanzado",
+      "keywords": ["Backend", "Automatización", "IA", "Data Science"]
     },
     {
-      "name": "TensorFlow",
-      "level": "Master",
-      "keywords": [
-        "Deep Learning",
-        "Neural Networks",
-        "Machine Learning",
-        "Python Library"
-      ]
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": ["Frontend", "Web Apps", "Tipado estático"]
     },
     {
-      "name": "PyTorch",
-      "level": "Master",
-      "keywords": [
-        "Deep Learning",
-        "Neural Networks",
-        "Machine Learning",
-        "Python Library"
-      ]
-    },
-    {
-      "name": "Scikit-learn",
-      "level": "Master",
-      "keywords": [
-        "Machine Learning",
-        "Data Mining",
-        "Python Library",
-        "Modeling"
-      ]
-    },
-    {
-      "name": "Keras",
-      "level": "Master",
-      "keywords": [
-        "Deep Learning",
-        "Neural Networks",
-        "Machine Learning",
-        "Python Library"
-      ]
-    },
-    {
-      "name": "Pandas",
-      "level": "Master",
-      "keywords": [
-        "Data Analysis",
-        "Data Manipulation",
-        "Python Library",
-        "Data Science"
-      ]
-    },
-    {
-      "name": "NumPy",
-      "level": "Master",
-      "keywords": [
-        "Numerical Computing",
-        "Array Processing",
-        "Python Library",
-        "Data Science"
-      ]
-    },
-    {
-      "name": "Matplotlib",
-      "level": "Master",
-      "keywords": [
-        "Data Visualization",
-        "Python Library",
-        "Data Science",
-        "Plotting"
-      ]
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": ["Frontend", "Interactividad", "Desarrollo web"]
     },
     {
       "name": "SQL",
       "level": "Avanzado",
+      "keywords": ["Consultas", "Modelado de datos", "Persistencia"]
+    },
+    {
+      "name": "Rust",
+      "level": "Intermedio",
+      "keywords": ["Sistemas", "Rendimiento", "CLI"]
+    },
+    {
+      "name": "C#",
+      "level": "Intermedio",
+      "keywords": ["Unity", "Realidad aumentada", "Aplicaciones interactivas"]
+    },
+    {
+      "name": "C++",
+      "level": "Intermedio",
+      "keywords": ["Programación de sistemas", "Rendimiento", "Algoritmos"]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["UI", "Componentes", "Aplicaciones SPA"]
+    },
+    {
+      "name": "Svelte",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Frontend moderno", "Componentes", "Web apps"]
+    },
+    {
+      "name": "Astro",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Landing pages", "SEO", "Sitios rápidos"]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Avanzado",
+      "keywords": ["Diseño UI", "Responsive design", "Design systems"]
+    },
+    {
+      "name": "HTML5",
+      "level": "Avanzado",
+      "keywords": ["Estructura semántica", "Accesibilidad", "Web"]
+    },
+    {
+      "name": "CSS3",
+      "level": "Avanzado",
+      "keywords": ["Animaciones", "Responsive", "Interfaces modernas"]
+    },
+    {
+      "name": "FastAPI",
+      "level": "Avanzado",
+      "keywords": ["APIs REST", "Backend Python", "Microservicios"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Backend", "APIs", "Servicios web"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": ["Bases de datos", "Relacional", "Persistencia"]
+    },
+    {
+      "name": "APIs REST",
+      "level": "Avanzado",
+      "keywords": ["Integraciones", "Backend", "Servicios"]
+    },
+    {
+      "name": "JWT",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Autenticación", "Seguridad", "Control de acceso"]
+    },
+    {
+      "name": "Arquitectura Hexagonal",
+      "level": "Intermedio-Avanzado",
       "keywords": [
-        "Bases de Datos",
-        "Consulta de Datos",
-        "Manipulación de Datos",
-        "Data Science"
+        "Arquitectura de software",
+        "Mantenibilidad",
+        "Clean Architecture"
       ]
     },
     {
-      "name": "Spark",
+      "name": "Clean Code",
+      "level": "Avanzado",
+      "keywords": ["Buenas prácticas", "Mantenibilidad", "Calidad de código"]
+    },
+    {
+      "name": "LLMs",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["IA generativa", "Automatización", "Modelos de lenguaje"]
+    },
+    {
+      "name": "RAG",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Búsqueda semántica", "Document AI", "IA privada"]
+    },
+    {
+      "name": "Ollama",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["LLMs locales", "IA open source", "Inferencia local"]
+    },
+    {
+      "name": "Bases de datos vectoriales",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Embeddings", "RAG", "Búsqueda semántica"]
+    },
+    {
+      "name": "IA Generativa",
+      "level": "Avanzado",
+      "keywords": ["Texto", "Imagen", "Video", "Automatización"]
+    },
+    {
+      "name": "Prompt Engineering",
+      "level": "Avanzado",
+      "keywords": ["LLMs", "Imagen generativa", "Optimización de resultados"]
+    },
+    {
+      "name": "ComfyUI",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Workflows IA", "Diffusion models", "Generación visual"]
+    },
+    {
+      "name": "Pandas",
+      "level": "Avanzado",
+      "keywords": ["Análisis de datos", "Limpieza de datos", "Transformación"]
+    },
+    {
+      "name": "NumPy",
+      "level": "Avanzado",
+      "keywords": ["Cómputo numérico", "Arrays", "Data Science"]
+    },
+    {
+      "name": "Scikit-learn",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Machine Learning", "Modelado", "Predicción"]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Avanzado",
+      "keywords": ["EDA", "Insights", "Métricas"]
+    },
+    {
+      "name": "Data Visualization",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Gráficas", "Reportes", "Storytelling con datos"]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": ["Contenedores", "Despliegue", "Entornos reproducibles"]
+    },
+    {
+      "name": "Docker Compose",
+      "level": "Avanzado",
+      "keywords": ["Servicios locales", "Infraestructura", "DevOps"]
+    },
+    {
+      "name": "Linux",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Terminal", "Servidores", "Entornos de desarrollo"]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Intermedio",
+      "keywords": ["Automatización", "Testing", "Deploy"]
+    },
+    {
+      "name": "Google Cloud Platform",
+      "level": "Intermedio",
+      "keywords": ["Cloud", "Despliegue", "Infraestructura"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de versiones", "Colaboración", "GitHub"]
+    },
+    {
+      "name": "Unity",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Aplicaciones 3D", "AR", "Interactividad"]
+    },
+    {
+      "name": "Vuforia",
+      "level": "Intermedio",
+      "keywords": ["Realidad aumentada", "Reconocimiento visual", "Android"]
+    },
+    {
+      "name": "WebGL",
+      "level": "Intermedio",
+      "keywords": ["Gráficos web", "Shaders", "Experiencias interactivas"]
+    },
+    {
+      "name": "Resolución de problemas",
+      "level": "Avanzado",
+      "keywords": ["Análisis", "Soluciones técnicas", "Debugging"]
+    },
+    {
+      "name": "Adaptabilidad",
+      "level": "Avanzado",
+      "keywords": ["Aprendizaje rápido", "Cambio tecnológico", "Versatilidad"]
+    },
+    {
+      "name": "Trabajo en equipo",
       "level": "Avanzado",
       "keywords": [
-        "Big Data",
-        "Distributed Computing",
-        "Data Processing",
-        "Machine Learning"
+        "Colaboración",
+        "Comunicación",
+        "Proyectos multidisciplinarios"
       ]
     },
     {
-      "name": "SciPy",
+      "name": "Pensamiento analítico",
       "level": "Avanzado",
-      "keywords": [
-        "Scientific Computing",
-        "Numerical Algorithms",
-        "Python Library",
-        "Data Science"
-      ]
+      "keywords": ["Datos", "Diagnóstico", "Toma de decisiones"]
     },
     {
-      "name": "Seaborn",
+      "name": "Autodidacta",
       "level": "Avanzado",
-      "keywords": [
-        "Data Visualization",
-        "Python Library",
-        "Data Science",
-        "Statistical Graphics"
-      ]
+      "keywords": ["Investigación", "Aprendizaje continuo", "Experimentación"]
+    },
+    {
+      "name": "Comunicación técnica",
+      "level": "Intermedio-Avanzado",
+      "keywords": ["Documentación", "Explicación de soluciones", "Asesoría"]
     }
   ],
   "languages": [
@@ -271,6 +409,138 @@
         "Generación de tablas con estadísticas clave"
       ],
       "url": "https://github.com/M1K3DEV23/Project_DataCamp/blob/master/Proyectos%20DataCamp/Analyzing%20Students'%20Mental%20Health/notebook.ipynb"
+    },
+    {
+      "name": "SaaS WhatsApp + LLMs",
+      "isActive": false,
+      "description": "Aplicación tipo SaaS para conectar WhatsApp con modelos LLM y automatizar flujos de atención al cliente y agendamiento de citas.",
+      "highlights": [
+        "Desarrollo full-stack de frontend y backend",
+        "Integración de modelos LLM para automatización conversacional",
+        "Persistencia de datos con PostgreSQL",
+        "Despliegue con Docker",
+        "Diseño de arquitectura escalable y segura"
+      ],
+      "keywords": [
+        "LLMs",
+        "SaaS",
+        "WhatsApp",
+        "PostgreSQL",
+        "Docker",
+        "Full-Stack"
+      ]
+    },
+    {
+      "name": "SMIFE",
+      "isActive": false,
+      "description": "Sistema web para digitalizar procesos de mantenimiento de infraestructura universitaria.",
+      "highlights": [
+        "Frontend con React y Tailwind CSS",
+        "Backend con FastAPI y PostgreSQL",
+        "Autenticación JWT y control de roles",
+        "Arquitectura hexagonal y Clean Code",
+        "Integración de chatbot local con Ollama"
+      ],
+      "keywords": ["React", "FastAPI", "PostgreSQL", "JWT", "Docker", "Ollama"]
+    },
+    {
+      "name": "Arquitectura RAG Privada",
+      "isActive": false,
+      "description": "Diseño y asesoría de soluciones de IA open source para procesamiento privado de documentos usando modelos LLM y bases de datos vectoriales.",
+      "highlights": [
+        "Diseño de arquitectura RAG",
+        "Uso de bases de datos vectoriales",
+        "Integración de LLMs locales",
+        "Despliegue con Docker",
+        "Pruebas en entornos cloud"
+      ],
+      "keywords": [
+        "RAG",
+        "LLMs",
+        "Vector Databases",
+        "Docker",
+        "GCP",
+        "IA Open Source"
+      ]
+    },
+    {
+      "name": "Workflows de IA Generativa con ComfyUI",
+      "isActive": false,
+      "description": "Diseño y optimización de flujos de generación de imágenes y video con ComfyUI y modelos de difusión.",
+      "highlights": [
+        "Configuración de modelos de difusión",
+        "Uso de LoRA, ControlNet, inpainting y upscaling",
+        "Optimización de rendimiento en GPU RTX",
+        "Prompt engineering para resultados visuales avanzados"
+      ],
+      "keywords": [
+        "ComfyUI",
+        "Stable Diffusion",
+        "LoRA",
+        "ControlNet",
+        "Prompt Engineering",
+        "RTX"
+      ]
+    },
+    {
+      "name": "N-Pathyc",
+      "isActive": true,
+      "description": "Proyecto de marca y desarrollo web enfocado en software, landing pages, webapps y tecnología NFC.",
+      "highlights": [
+        "Diseño de landing pages modernas",
+        "Desarrollo de interfaces web para servicios digitales",
+        "Creación de assets visuales para productos NFC",
+        "Prototipado de experiencias interactivas"
+      ],
+      "keywords": [
+        "NFC",
+        "Landing Pages",
+        "Web Design",
+        "Software Development",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Aplicación de Realidad Aumentada Cultural",
+      "isActive": false,
+      "description": "Aplicación Android de realidad aumentada para visualizar modelos 3D animados sobre paneles pintados.",
+      "highlights": [
+        "Desarrollo con Unity, Vuforia SDK y C#",
+        "Reconocimiento visual de paneles físicos",
+        "Activación de animaciones 3D",
+        "Optimización para dispositivos móviles Android"
+      ],
+      "keywords": ["Unity", "Vuforia", "C#", "Android", "AR", "3D"]
+    },
+    {
+      "name": "Compilación de llama.cpp",
+      "isActive": false,
+      "description": "Compilación y configuración de llama.cpp para ejecutar modelos de lenguaje open source en hardware local.",
+      "highlights": [
+        "Configuración de entorno local para LLMs",
+        "Ejecución eficiente de modelos open source",
+        "Experimentación con inferencia local"
+      ],
+      "keywords": ["llama.cpp", "LLMs", "Open Source", "Linux", "IA Local"]
+    },
+    {
+      "name": "Compilación de Sage Attention",
+      "isActive": false,
+      "description": "Compilación de Sage Attention para acelerar flujos de modelos de difusión en tarjetas RTX.",
+      "highlights": [
+        "Optimización para modelos de difusión",
+        "Configuración en entorno Linux",
+        "Mejora de rendimiento en generación con IA"
+      ],
+      "keywords": [
+        "Sage Attention",
+        "Diffusion Models",
+        "RTX",
+        "ComfyUI",
+        "Performance"
+      ]
     }
   ]
 }
