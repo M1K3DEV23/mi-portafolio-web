@@ -24,6 +24,7 @@ const SOCIAL_ICONS: Record<string, typeof GitHub> = {
 
 const linkedinInfo = profiles.find(({ network }) => network === 'LinkedIn');
 const linkedinUrl = linkedinInfo?.url;
+const phoneHref = phone?.replace(/[^+\d]/g, '');
 
 const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(' • ');
 ---
@@ -33,8 +34,8 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(' • ');
     <div class="info">
       <h1>{name}</h1>
       <h2>{label}</h2>
-      <span>
-        <WorldMap />
+      <span aria-label={`Ubicación: ${city}, ${region}`}>
+        <span aria-hidden="true"><WorldMap /></span>
         {city}, {region}
       </span>
       <footer class="print accesible-info">
@@ -45,22 +46,27 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(' • ');
           email && (
             <a
               href={`mailto:${email}`}
-              title={`Enviar un correo electrónico a ${name} al coreo ${email}`}
+              title={`Enviar un correo electrónico a ${name} al correo ${email}`}
+              aria-label={`Enviar un correo electrónico a ${name}`}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Mail />
+              <span aria-hidden="true">
+                <Mail />
+              </span>
             </a>
           )
         }
         {
           phone && (
             <a
-              href={`tel:${email}`}
+              href={`tel:${phoneHref}`}
               title={`Llamar por teléfono a ${name} al número ${phone}`}
-              rel="noopener noreferrer"
+              aria-label={`Llamar por teléfono a ${name}`}
             >
-              <Phone />
+              <span aria-hidden="true">
+                <Phone />
+              </span>
             </a>
           )
         }
@@ -71,10 +77,13 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(' • ');
               <a
                 href={url}
                 title={`Visitar el perfil de ${username} en ${network}`}
+                aria-label={`Visitar el perfil de ${username} en ${network}`}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Icon />
+                <span aria-hidden="true">
+                  <Icon />
+                </span>
               </a>
             );
           })
@@ -82,7 +91,7 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(' • ');
       </footer>
     </div>
     <figure>
-      <img src={image} alt={name} />
+      <img src={image} alt={`Foto de perfil de ${name}`} />
     </figure>
   </div>
 </Section>

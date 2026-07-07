@@ -13,10 +13,18 @@ import { projects } from '@cv';
             <article>
               <header>
                 <h3>
-                  <a href={url} title={`Ver el proyecto ${name}`}>
+                  <a
+                    href={url}
+                    title={`Ver el proyecto ${name}`}
+                    aria-label={`Ver el proyecto ${name}`}
+                  >
                     {name}
                   </a>
-                  {isActive && <span>&bull;</span>}
+                  {isActive && (
+                    <span aria-label="Proyecto activo" title="Proyecto activo">
+                      &bull;
+                    </span>
+                  )}
                 </h3>
                 <p>{description}</p>
               </header>
