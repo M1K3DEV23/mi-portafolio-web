@@ -37,7 +37,7 @@ const SOCIAL_ICONS: Record<string, string> = {
 >`,
 };
 
-const profilesInfo = profiles.map(({ network, url, username }) => {
+const profilesInfo = profiles.map(({ network, url }) => {
   const icon = SOCIAL_ICONS[network];
   const firstLetter = network[0].toUpperCase();
   return {
